@@ -1,1 +1,3 @@
 rootProject.name = 'PracticeDemo'
+include "PracticeApplications:OrderMicroservices"
+include "PracticeApplications:productmicroservice"
